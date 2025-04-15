@@ -1,3 +1,5 @@
+<details>
+<summary>📄 Click to Expand: README Template</summary>
 
 # 📊 Employee Attrition Analysis – Capstone Project
 
