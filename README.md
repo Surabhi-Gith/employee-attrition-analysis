@@ -70,4 +70,5 @@ The dataset includes employee demographic and performance information such as:
 - Expand project into a blog post
 
 ---
+</details>
 
