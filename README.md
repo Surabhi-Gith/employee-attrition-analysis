@@ -1,13 +1,13 @@
 <details>
 <summary>📄 Click to Expand: README Template</summary>
 
-# 📊 Employee Attrition Analysis – Capstone Project
+# Employee Attrition Analysis – Capstone Project
 
 This project is part of the **Google Data Analytics Certificate** program. The goal is to analyze HR data to identify trends in employee attrition and provide recommendations to improve employee retention.
 
 ---
 
-## 🧠 Project Objectives
+##  Project Objectives
 
 - Predict employee attrition over the next 5 years
 - Identify key factors contributing to attrition
@@ -15,7 +15,7 @@ This project is part of the **Google Data Analytics Certificate** program. The g
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The dataset includes employee demographic and performance information such as:
 
@@ -26,7 +26,7 @@ The dataset includes employee demographic and performance information such as:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Python**: pandas, matplotlib, seaborn, scikit-learn
 - **SQL**: BigQuery for initial data exploration
@@ -35,18 +35,18 @@ The dataset includes employee demographic and performance information such as:
 
 ---
 
-## 🔍 Analysis Process
+##  Analysis Process
 
 1. **Ask** – Defined business problem and goals  
 2. **Prepare** – Assessed data structure and quality  
 3. **Process** – Cleaned and formatted the data  
 4. **Analyze** – Explored data trends and built visualizations  
-5. **Model** – Built a predictive model (e.g., logistic regression)  
+5. **Model** – Built a predictive model   
 6. **Share** – Created final deliverables with recommendations
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - Higher attrition rates in early years (0–2)
 - Low job satisfaction, high commute = increased attrition
@@ -54,20 +54,12 @@ The dataset includes employee demographic and performance information such as:
 
 ---
 
-## 📌 Deliverables
+##  Deliverables
 
 - [📂 Full Code on GitHub](#)
 - [📊 Tableau Dashboard](#)
 - [📝 Final Report / Presentation](#)
 
----
 
-## ✅ Next Steps
-
-- Publish Tableau visuals
-- Tune predictive model and add evaluation metrics
-- Expand project into a blog post
-
----
 </details>
 
