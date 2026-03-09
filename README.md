@@ -23,7 +23,6 @@ The dataset includes employee demographic and performance information such as:
 - Job Role, Salary, Job Satisfaction
 - Years at Company, Work-Life Balance
 
-(Data source: [mention if it's from Coursera or upload if allowed])
 
 ---
 
