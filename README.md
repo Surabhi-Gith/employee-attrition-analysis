@@ -41,7 +41,7 @@ The dataset includes employee demographic and performance information such as:
 2. **Prepare** – Assessed data structure and quality  
 3. **Process** – Cleaned and formatted the data  
 4. **Analyze** – Explored data trends and built visualizations  
-5. **Model (optional)** – Built a predictive model (e.g., logistic regression)  
+5. **Model** – Built a predictive model (e.g., logistic regression)  
 6. **Share** – Created final deliverables with recommendations
 
 ---
